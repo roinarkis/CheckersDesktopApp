@@ -30,7 +30,7 @@ namespace UI
             InitializeComponent();
             getPlayersStats();
             updatePlayerTurnText();
-            updateBoardSize();
+           // updateBoardSize();
             InitializeBoard();
         }
         private void updatePlayerTurnText()
