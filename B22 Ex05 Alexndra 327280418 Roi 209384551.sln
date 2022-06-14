@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{D06D3599-2149-4850-BEA5-B677102954FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLogic", "..\..\..\Downloads\B22 Ex02 AlexndraKolovarsky 327280418 RoiNarkis 209384551 (3)\B22 Ex02 AlexndraKolovarsky 327280418 RoiNarkis 209384551\GameLogic\GameLogic.csproj", "{78365A3D-43F5-4F8B-A460-6277773688C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06D3599-2149-4850-BEA5-B677102954FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06D3599-2149-4850-BEA5-B677102954FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06D3599-2149-4850-BEA5-B677102954FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06D3599-2149-4850-BEA5-B677102954FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78365A3D-43F5-4F8B-A460-6277773688C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78365A3D-43F5-4F8B-A460-6277773688C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78365A3D-43F5-4F8B-A460-6277773688C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78365A3D-43F5-4F8B-A460-6277773688C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A46210A2-D470-41BC-8AB7-18D3FBEDF6CD}
+	EndGlobalSection
+EndGlobal

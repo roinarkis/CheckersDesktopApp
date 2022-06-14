@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hNRaK89bfB9BIYyVTMF7Lq5IscJK/i59ITpq4h5KXwdEPokXJszi3n2BSFzyZ1I3GvWEZVgzRIaEN16oBcIGjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roina\\source\\repos\\B22 Ex05 Alexndra 327280418 Roi 209384551\\UI\\UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roina\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
